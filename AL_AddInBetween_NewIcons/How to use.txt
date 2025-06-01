@@ -1,0 +1,28 @@
+How to download HarmonyScripts from GitHub and how to install HarmonyScripts:
+On the GitHub page, click the green Code button and select Download ZIP. 
+After unzipping, copy all the files directly to the following path:
+
+Windows
+%AppData%\Toon Boom Animation\Toon Boom Harmony Premium\2400-scripts
+
+macOS
+~/Library/Preferences/Toon Boom Animation/Toon Boom Harmony Premium/2400-scripts
+
+Apple operating system macOS By default, the Library folder is hidden. 
+You need to hold down the Option(Alt) key under the Go menu in the Finder menu bar to display the Library folder.
+
+
+
+If you are using Toon Boom Harmony version 22, copy it to the 2200-scripts folder, and so on. After copying, the correct path is:
+\2400-scripts\AL_AddInBetween.js
+\2400-scripts\AL_AddInBetween.png
+\2400-scripts\script-icons\tween_10.png, tween_20.png, tween_30.png, etc.
+
+
+
+How to use:
+Toon Boom Harmony menu bar: Windows - Toolbars - Scripting, click the arrow icon on the far left of the script toolbar, 
+enter: AL in the search bar in the upper left corner of the pop-up window, then select: AL_AddInBetween.js in the list below, 
+click the middle list item, then click the right arrow to move to the right list, and click OK.
+
+
